@@ -1,0 +1,12 @@
+Executing the Program:
+
+There are two files: makefile and algorithm.cpp
+
+Step 1: Write make in cmd
+(This will compile algorithm.cpp source file to an executable named AlgoTowers)
+
+Step 2: Running the program
+
+1) AlgoTowers TaskNumber Input_File
+Example: AlgoTowers 2 10x10
+(This will write the output in the console, the output will be the top-left and bottom-right corners of the optimal rectangle/sqaure)
